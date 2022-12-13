@@ -164,3 +164,15 @@
         width: 50%;
     }
 }
+
+.s5 {
+    background-image: linear-gradient(-45deg, rgba(0,0,0,0.8) 40%, rgba(165,204,21,.2) 100%),
+    url(https://images.unsplash.com/photo-1534438327276-14e5300c3a48);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: v.$white;
+
+    .text-content {
+        width: 50%;
+    }
+}
